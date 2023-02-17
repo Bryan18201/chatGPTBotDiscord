@@ -1,6 +1,6 @@
-# ChatGPTBotDiscord es un bot de la aplicacion de Discord creado con JavaScript, el cual respondera todas tus preguntas mediante la API de inteligencia artificial OPENAPI, muy util para buscar información o incluso código de programación.
+# ChatGPTBotDiscord es un bot de la aplicación de Discord creado con JavaScript, el cual responderá todas tus preguntas mediante la API de inteligencia artificial OPEN AI, muy útil para buscar información o incluso código de programación.
 
-# Imageness en uso 
+# Imágenes en uso:
 
 ![image](https://user-images.githubusercontent.com/80865397/219758689-3102bcde-a3eb-447c-a2a0-b909d35b2063.png)
 
